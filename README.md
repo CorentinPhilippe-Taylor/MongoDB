@@ -8,3 +8,6 @@ Write 4 programs in python and mongo
 - find station with name (with some letters) (FindByName.py)
 - update / delete a station (DeleteStation.py)
 - deactivate all station in an area (DesactivateArea.py)
+
+
+Projet réalisé par Corentin Philippe-Taylor et Destiné Stanislas Makani
